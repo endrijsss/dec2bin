@@ -1,0 +1,13 @@
+C:\Users\Enjah\Dec2Bin\bin\Debug\netcoreapp3.1\Dec2Bin.exe
+C:\Users\Enjah\Dec2Bin\bin\Debug\netcoreapp3.1\Dec2Bin.deps.json
+C:\Users\Enjah\Dec2Bin\bin\Debug\netcoreapp3.1\Dec2Bin.runtimeconfig.json
+C:\Users\Enjah\Dec2Bin\bin\Debug\netcoreapp3.1\Dec2Bin.runtimeconfig.dev.json
+C:\Users\Enjah\Dec2Bin\bin\Debug\netcoreapp3.1\Dec2Bin.dll
+C:\Users\Enjah\Dec2Bin\bin\Debug\netcoreapp3.1\Dec2Bin.pdb
+C:\Users\Enjah\Dec2Bin\obj\Debug\netcoreapp3.1\Dec2Bin.csprojAssemblyReference.cache
+C:\Users\Enjah\Dec2Bin\obj\Debug\netcoreapp3.1\Dec2Bin.AssemblyInfoInputs.cache
+C:\Users\Enjah\Dec2Bin\obj\Debug\netcoreapp3.1\Dec2Bin.AssemblyInfo.cs
+C:\Users\Enjah\Dec2Bin\obj\Debug\netcoreapp3.1\Dec2Bin.csproj.CoreCompileInputs.cache
+C:\Users\Enjah\Dec2Bin\obj\Debug\netcoreapp3.1\Dec2Bin.dll
+C:\Users\Enjah\Dec2Bin\obj\Debug\netcoreapp3.1\Dec2Bin.pdb
+C:\Users\Enjah\Dec2Bin\obj\Debug\netcoreapp3.1\Dec2Bin.genruntimeconfig.cache
