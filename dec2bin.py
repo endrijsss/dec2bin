@@ -5,12 +5,16 @@ def DecimalToBinary(num):
     if num > 1: 
         DecimalToBinary(num // 2) 
     print(num % 2, end = '') 
-  
-# Driver Code 
-if __name__ == '__main__': 
-      
-    # decimal value 
-    dec_val = int(input("Enter Decimal Value: \n"))
-      
-    # Calling function 
-    DecimalToBinary(dec_val) 
+Check = False
+while not Check:
+#while pazime==False:
+#while paziime!=True:
+    try:
+        dec_val = int(input("Enter Decimal Value: \n"))
+        DecimalToBinary(dec_val) 
+        Check = True
+    except:
+        print("Invalid input :-(")
+        print("Please try again :-)")
+
+
